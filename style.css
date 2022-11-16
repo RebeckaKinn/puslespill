@@ -1,0 +1,24 @@
+    .container{
+        background-color: rgb(56, 54, 54);
+    }
+    
+    h1{
+        color: bisque;
+        font-size: 50px;
+        font-family: Lucida Handwriting;
+    }
+
+    div.look { 
+        width: 100px;
+        height: 100px;
+        float: left;
+    }
+    
+    div.førstPåLinja {
+        clear: left;
+     }
+
+     .imgclass{
+        width: 100px;
+        height: 100px;
+     }
